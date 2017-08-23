@@ -28,15 +28,15 @@ Under Corpora, download stopwords and wordnet.
 Under Models, download punkt.
 
 For beautiful soup:
-'''
-Run pip3 install beautifulsoup4 
-'''
+```
+pip3 install beautifulsoup4 
+```
 
 ## Run
 In the command window or terminal, run:
-'''
+```
 python findTopic.py <your_url>
-'''
+```
 
 ## Working
 
